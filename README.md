@@ -7,7 +7,7 @@
 + # 第一步下载--2选1,官方和我提供的
 + # [weakauras2官方下载地址](https://www.curseforge.com/wow/addons/weakauras-2 "点我下载") 
 + # [我提供的WeakAuras-2.8.1版本下载]
-(https://github.com/zxsean/Moon-Temple-WA/blob/master/wa/WeakAuras-2.8.1.zip) 
+(https://github.com/zxsean/Moon-Temple-WA/raw/master/wa/WeakAuras-2.8.1.zip) 
 
 ![Image text](pics/1.png)
 
