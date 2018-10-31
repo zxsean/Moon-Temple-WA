@@ -7,7 +7,7 @@
 + # 第一步下载--2选1,官方和我提供的
 + # 下载流程可以参考wa教程贴!
 + # [TellMeWhen官方下载地址](https://www.curseforge.com/wow/addons/tellmewhen "点我下载") 
-+ # [我提供的TellMeWhen-8.5.4版本下载](https://github.com/zxsean/Moon-Temple-WA/raw/master/wa/WeakAuras-2.8.1.zip) 
++ # [我提供的TellMeWhen-8.5.4版本下载](https://raw.githubusercontent.com/zxsean/Moon-Temple-WA/master/tmw/TellMeWhen-8.5.4.zip) 
 
 ---
 
