@@ -13,16 +13,16 @@
 
 ---
 
-+ # 第二步安装wa
++ # 第二步安装tmw
 + # 也请参考wa教程贴
 
 ---
 
 ---
 
-+ # 第三步进入游戏测试wa
++ # 第三步进入游戏测试tmw
 ![Image text](pics/1.png) 
-+ # 成功出现了wa界面!
++ # 成功出现了tmw界面!
 ![Image text](pics/2.png) 
 
 ---
@@ -37,7 +37,7 @@
 + # 复制网页中的字符串
 ![Image text](pics/4.png) 
 
-+ # 粘贴进wa
++ # 粘贴进tmw
 ![Image text](pics/5.png) 
 ![Image text](pics/6.png) 
 ![Image text](pics/7.png) 
